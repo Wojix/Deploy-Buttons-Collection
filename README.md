@@ -3,6 +3,10 @@
 さまざまなホスティングサービス向けのデプロイボタン一覧です。  
 このリポジトリをテンプレートとして利用する際に使用できます。
 
+# 注意
+
+リンクの`USER/REPO` をあなたの GitHub リポジトリ名に置き換えてください。
+
 ---
 
 ## Vercel
@@ -70,7 +74,3 @@
 [![Run on Repl.it](https://repl.it/badge/github/USER/REPO)](https://repl.it/github/USER/REPO)
 
 ---
-
-# 注意
-
-`USER/REPO` をあなたの GitHub リポジトリ名に置き換えてください。
