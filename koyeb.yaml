@@ -1,0 +1,5 @@
+services:
+  - name: my-app
+    image: node:18
+    routes:
+      - path: /
