@@ -1,0 +1,8 @@
+{
+  "name": "my-app",
+  "description": "Template for Heroku deploy button",
+  "env": {},
+  "scripts": {
+    "postdeploy": "echo Post Deploy"
+  }
+}
