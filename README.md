@@ -3,9 +3,8 @@
 さまざまなホスティングサービス向けのデプロイボタン一覧です。  
 このリポジトリをテンプレートとして利用する際に使用できます。
 
-# 注意
-
-リンクの`USER/REPO` をあなたの GitHub リポジトリ名に置き換えてください。
+## 注意
+- USER/REPO の部分はあなたのリポジトリ名に置き換えてください。
 
 ---
 
@@ -45,7 +44,7 @@
 
 ---
 
-## Fly.io（テンプレートURL）
+## Fly.io
 
 [![Deploy to Fly.io](https://img.shields.io/badge/Deploy%20to-Fly.io-blue)](https://fly.io/launch?source=https://github.com/USER/REPO)
 
@@ -63,7 +62,7 @@
 
 ---
 
-## Codesandbox
+## CodeSandbox
 
 [![Open in CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/github/USER/REPO)
 
@@ -74,3 +73,38 @@
 [![Run on Repl.it](https://repl.it/badge/github/USER/REPO)](https://repl.it/github/USER/REPO)
 
 ---
+
+## Google Cloud Shell
+
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/USER/REPO)
+
+---
+
+## AWS Cloud9
+
+[![Open in Cloud9](https://img.shields.io/badge/Open%20in-AWS%20Cloud9-orange)](https://console.aws.amazon.com/cloud9/home?region=us-east-1#clone-repository:https://github.com/USER/REPO)
+
+---
+
+## Azure Cloud Shell
+
+[![Open in Azure Cloud Shell](https://img.shields.io/badge/Open%20in-Azure%20Cloud%20Shell-blue)](https://shell.azure.com/?cloudshell_git_repo=https://github.com/USER/REPO)
+
+---
+
+## Glitch
+
+[![Import to Glitch](https://img.shields.io/badge/Import%20to-Glitch-pink)](https://glitch.com/edit/#!/import/github/USER/REPO)
+
+---
+
+## Koyeb
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/USER/REPO)
+
+---
+
+## Deta Space
+
+[![Deploy to Deta](https://img.shields.io/badge/Deploy%20to-Deta-blue)](https://deta.space/discovery?import=https://github.com/USER/REPO)
+
