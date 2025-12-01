@@ -1,0 +1,4 @@
+{
+  "repository": "https://github.com/USER/REPO",
+  "setup": "npm install"
+}
