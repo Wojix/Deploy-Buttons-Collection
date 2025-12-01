@@ -1,0 +1,5 @@
+{
+  "name": "my-app",
+  "engine": "nodejs18.x",
+  "run": "npm start"
+}
