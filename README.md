@@ -43,8 +43,6 @@
 
 ## Fly.io（テンプレートURL）
 
-Fly は正式な画像ボタンは無いので独自ボタンを利用
-
 [![Deploy to Fly.io](https://img.shields.io/badge/Deploy%20to-Fly.io-blue)](https://fly.io/launch?source=https://github.com/USER/REPO)
 
 ---
